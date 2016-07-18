@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "http://devportfolio.davesick.net" # the subpath of your site, e.g. /blog/
-url: "https://dsick.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://devportfolio.davesick.net" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
